@@ -11,7 +11,7 @@ import SwiftUI
 struct NewsAppCombineApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeApp()
         }
     }
 }
